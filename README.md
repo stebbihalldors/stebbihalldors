@@ -1,3 +1,6 @@
+![Background fjarstýring](https://github.com/stebbihalldors/stebbihalldors/assets/9976716/4052e9c2-ce57-421a-91aa-05a5c3bcf022)
+
+
 <h1 align="center">Hi 👋, I'm Stebbi Halldors</h1>
 <h3 align="center">A passionate Game Programmer from Iceland, currently based in Stockholm, Sweden.</h3>
 
