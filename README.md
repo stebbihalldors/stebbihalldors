@@ -4,7 +4,7 @@
 <h1 align="center">Hi 👋, I'm Stebbi Halldors</h1>
 <h3 align="center">A passionate Game Programmer from Iceland, currently based in Stockholm, Sweden.</h3>
 
-- 👨‍💻 All of my projects are available at [https://stebbihalldors.wixsite.com/portfolio](https://stebbihalldors.wixsite.com/portfolio)
+- 👨‍💻 All of my projects are available at [https://stebbihalldors.com](https://stebbihalldors.com)
 
 - 📫 How to reach me **stebbihalldors@gmail.com**
 
